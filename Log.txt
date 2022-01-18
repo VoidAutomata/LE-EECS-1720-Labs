@@ -1,6 +1,13 @@
+.LOG
 My update file, which will help me with consistent commits!
 Sometimes, I don't have much to write, but my batch file definitely has something to say:
 
 "updated 2022-01-13 14:58:30.82" "updated 2022-01-16 18:04:36.49" 
 "updated 2022-01-17 12:13:34.29" 
 "updated 2022-01-18 13:23:37.34" 
+
+14:52 2022-01-18
+File has been converted into a log file. Batch file updated to accommodate format change, specifically the timestamp.
+
+14:54 2022-01-18
+Tested the batch file. Success.

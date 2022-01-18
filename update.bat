@@ -1,1 +1,1 @@
-echo "updated %DATE% %TIME%" >> updateFile.txt
+echo updated %TIME% %DATE% >> Log.txt
