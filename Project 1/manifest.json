@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "1720 Web Extension",
+    "version": "1.0",
+
+    "description": "My homework :P",
+
+    "content_scripts": [
+        {
+            "matches": ["*://*.google.com/search?*"],
+            "js": ["Project 1.js"]
+        }
+    ],
+
+    "permissions": [
+        "*://duckduckgo.com/html/*"
+    ]
+}
