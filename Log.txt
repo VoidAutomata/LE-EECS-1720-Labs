@@ -15,4 +15,7 @@ Tested the batch file. Success.
 
 updated 10:52:05.29 2022-01-19
 
+updated 10:54:56.27 2022-01-19 
+Added return and hyphen under timestamp for batch file script.
+- 
 
