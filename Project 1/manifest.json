@@ -7,12 +7,14 @@
 
     "content_scripts": [
         {
-            "matches": ["*://*.google.com/search?*"],
+            "matches": ["<all_urls>"],
             "js": ["Project 1.js"]
         }
     ],
 
     "permissions": [
-        "*://duckduckgo.com/html/*"
+        "*://duckduckgo.com/html/*",
+        "storage",
+        "default_popup"
     ]
 }
