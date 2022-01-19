@@ -19,3 +19,7 @@ updated 10:54:56.27 2022-01-19
 Added return and hyphen under timestamp for batch file script.
 - 
 
+17:04 2022-01-19
+New idea for browser extension: A speed-clicker bot. 
+User assigns a key to activate/kill the clicker. 
+Then, when the key is triggered, the mouse will begin repeatedly clicking at a speed determined by user (on a slider?)
