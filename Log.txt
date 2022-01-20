@@ -23,3 +23,6 @@ Added return and hyphen under timestamp for batch file script.
 New idea for browser extension: A speed-clicker bot. 
 User assigns a key to activate/kill the clicker. 
 Then, when the key is triggered, the mouse will begin repeatedly clicking at a speed determined by user (on a slider?)
+-- 
+10:55:56.72 2022-01-20 
+-
