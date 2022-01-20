@@ -2,5 +2,5 @@ console.log("active");
 
 let paragraph = document.getElementsByTagName('p');
 for (elt of paragraph){
-    elt.style['background-color'] = '#ff0000';
+    elt.style['color'] = '#ff0000';
 }
