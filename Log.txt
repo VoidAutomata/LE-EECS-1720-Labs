@@ -27,4 +27,6 @@ Then, when the key is triggered, the mouse will begin repeatedly clicking at a s
 10:55:56.72 2022-01-20 
 -
 12:10 2022-01-20
-Script now finds all elements of 'p' (paragraph), and changes the background color to #ff0000.
+Script now finds all elements of 'p' (paragraph), and changes the background color to #ff0000.- 
+
+09:51 2022-01-21
