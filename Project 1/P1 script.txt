@@ -1,0 +1,12 @@
+All elements that will be processed will have red text.
+All processed elements that contain a number will be green.
+
+This extension takes numbers from any webpage and alerts the user.
+
+The highlighted number is 1828.
+The number 1828 was pulled from the right of the logo.
+This is near the top left corner of the screen.
+
+Here are other numbers that were captured and sent in the alert.
+This extension would be very useful for pulling large amounts of numerical data from a webpage.
+Rather than copy and paste each entry, this extension will compile all of it into a single message.

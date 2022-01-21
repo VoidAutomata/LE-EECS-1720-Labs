@@ -3,7 +3,7 @@
     "name": "1720 Web Extension",
     "version": "1.0",
 
-    "description": "My homework :P",
+    "description": "1720 Project 1",
 
     "content_scripts": [
         {
