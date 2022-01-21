@@ -30,3 +30,5 @@ Then, when the key is triggered, the mouse will begin repeatedly clicking at a s
 Script now finds all elements of 'p' (paragraph), and changes the background color to #ff0000.- 
 
 09:51 2022-01-21
+ 
+9:52:34.07 2022-01-21 
