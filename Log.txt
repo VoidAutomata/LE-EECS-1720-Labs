@@ -37,3 +37,5 @@ Script now finds all elements of 'p' (paragraph), and changes the background col
 
  
 13:34:59.54 2022-01-25 
+ 
+12:58:44.72 2022-01-26 
