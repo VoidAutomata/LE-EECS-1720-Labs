@@ -68,6 +68,7 @@ Created Phase_1.md, answered 16 questions in it.
 11:45:59.53 2022-02-09 
  
 18:25:35.64 2022-02-10 
+Added "Authentication of an API.md"
  
 11:45:34.42 2022-02-11 
  
@@ -78,3 +79,4 @@ Created Phase_1.md, answered 16 questions in it.
 20:33:05.72 2022-02-14 
  
 12:20:47.05 2022-02-15 
+
