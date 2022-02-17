@@ -84,3 +84,7 @@ Added "Authentication of an API.md"
 11:38:31.42 2022-02-16 
 Began progress on Twitter bot. 
 Thinking of making "Waifu Bot" to regularly upload images of waifus.
+
+13:06 2022-02-17
+Fixed an issue with interpreter. When running python with specific packages, 
+it must be run on the same interpreter as the package was installed.
