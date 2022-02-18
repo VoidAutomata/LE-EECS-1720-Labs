@@ -93,3 +93,7 @@ it must be run on the same interpreter as the package was installed.
 Working with Tweepy has started to become difficult— the bot keeps getting suspended.
 Decided to work on a Discord bot instead. 
 12:20:30.95 2022-02-18 
+
+14:48 2022-02-18
+Updated comments on AutoArtAgent.
+Considering adding a feature for jokes generation.
