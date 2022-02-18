@@ -88,3 +88,8 @@ Thinking of making "Waifu Bot" to regularly upload images of waifus.
 13:06 2022-02-17
 Fixed an issue with interpreter. When running python with specific packages, 
 it must be run on the same interpreter as the package was installed.
+
+16:43 2022-02-17
+Working with Tweepy has started to become difficult— the bot keeps getting suspended.
+Decided to work on a Discord bot instead. 
+12:20:30.95 2022-02-18 
