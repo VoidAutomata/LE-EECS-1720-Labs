@@ -108,3 +108,8 @@ Responds to messages like "I'm hungry" with "Hi hungry, I'm dad"
 Updated bot.
 Code cleanup, more efficient, and dadBot can now be toggled.
 Only I can toggle it though. >:)
+
+15:10 2022-02-22
+Added a small update to the Discord Bot Void Automation. 
+At an exact time, it should send a message...
+Wait for it...
