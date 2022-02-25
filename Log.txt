@@ -117,3 +117,6 @@ Wait for it...
 11:17:57.95 2022-02-23 
 Heyy!! It happened! My bot sent the message at exactly 2022, 02, 22, 22:22:22!
 
+
+15:16 2022-02-25
+Making a $joke 'command' for bot. Dadjoke module from PyPi.
