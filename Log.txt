@@ -143,4 +143,9 @@ Making a $joke 'command' for bot. Dadjoke module from PyPi.
 13:43 2022-03-09
 Cloned being-there-together repo
 Setting up Heroku 
+
 12:42:39.16 2022-03-10 
+
+17:02 2022-03-10
+Managed to deploy Heroku app.
+Currently debugging app hosting.
