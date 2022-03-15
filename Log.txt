@@ -148,4 +148,5 @@ Setting up Heroku
 
 17:02 2022-03-10
 Managed to deploy Heroku app.
-Currently debugging app hosting.
+Currently debugging app hosting. 
+13:09:40.44 2022-03-15 
