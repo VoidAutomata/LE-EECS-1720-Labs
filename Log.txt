@@ -150,3 +150,8 @@ Setting up Heroku
 Managed to deploy Heroku app.
 Currently debugging app hosting. 
 13:09:40.44 2022-03-15 
+
+22:07 2022-03-15
+Completed being-there-together app.
+Hosted on Heroku, but proxy must be run locally due to Free Heroku limitations.
+Wrote into README and Statement files.
