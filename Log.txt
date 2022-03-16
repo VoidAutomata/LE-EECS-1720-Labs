@@ -154,4 +154,5 @@ Currently debugging app hosting.
 22:07 2022-03-15
 Completed being-there-together app.
 Hosted on Heroku, but proxy must be run locally due to Free Heroku limitations.
-Wrote into README and Statement files.
+Wrote into README and Statement files. 
+13:07:41.02 2022-03-16 
