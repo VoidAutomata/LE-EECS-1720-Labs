@@ -169,4 +169,5 @@ Added html and css for reference.
 Worked on Quiz 3, finished the localhost setup.
 Currently trying to get model to show on screen, but am faced with an error.
  
-14:55:05.78 2022-03-22 
+14:55:05.78 2022-03-22  
+11:42:50.39 2022-03-23 
