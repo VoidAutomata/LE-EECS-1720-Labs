@@ -175,3 +175,7 @@ Currently trying to get model to show on screen, but am faced with an error.
 11:55:33.65 2022-03-25 
  
 11:11:27.82 2022-03-28 
+
+13:07 2022-03-30
+Working on Crowdsourcing Lab, currently decided to display a rectangle rainbow (hue + lightness).
+Users can select a color, and see a "heatmap" of the most frequently selected colors.
