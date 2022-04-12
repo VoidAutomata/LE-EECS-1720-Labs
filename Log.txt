@@ -184,3 +184,8 @@ Users can select a color, and see a "heatmap" of the most frequently selected co
 11:48:25.88 2022-04-01 
  
 13:54:36.68 2022-04-02 
+
+22:29 2022-04-11
+Finished Lab 4 Crowdsourcing assignment.
+Will now draw rainbow, get user click location, and draw circles on all previous click locations.
+Is async and will remember all clicks.
